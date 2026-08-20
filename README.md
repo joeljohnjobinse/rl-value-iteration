@@ -86,5 +86,10 @@ Value iteration converged in 32 sweeps with max delta: 7.21e-10
   - Status                   : OPTIMAL POLICY ACHIEVED
 ```
 
+### Graphs
+<img width="1070" height="441" alt="image" src="https://github.com/user-attachments/assets/41b0cc4f-97b6-416d-867d-a1c8f1ccd292" />
+
+<img width="1065" height="322" alt="image" src="https://github.com/user-attachments/assets/a6e4e407-5156-45f5-ba34-ae6902e9fae9" />
+
 ## RESULT:
 The Value Iteration algorithm was successfully implemented for the Gambler's Problem. The algorithm converged to the optimal state-value function $V^*(s)$, representing the maximum probability of reaching the $\$100$ goal from each capital state, and extracted the corresponding optimal betting policy $\pi^*(s)$.
